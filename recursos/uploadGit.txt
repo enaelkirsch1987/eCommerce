@@ -1,1 +1,4 @@
 git add --all
+
+git commit -m "Criamos a classe page"
+
