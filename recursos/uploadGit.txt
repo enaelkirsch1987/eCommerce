@@ -2,3 +2,4 @@ git add --all
 
 git commit -m "Criamos a classe page"
 
+git push origin master
