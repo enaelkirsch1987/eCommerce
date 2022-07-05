@@ -1,5 +1,5 @@
 git add --all
 
-git commit -m "Criamos a classe page"
+git commit -m "tpl site"
 
 git push origin master
