@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => 'bdc479dbebefcefb403da2d5fdeb6fc34efe3b01',
         'name' => 'enaelkirsch1987/ecommerce',
         'dev' => true,
     ),
     'versions' => array(
         'enaelkirsch1987/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'bdc479dbebefcefb403da2d5fdeb6fc34efe3b01',
             'dev_requirement' => false,
         ),
         'phpmailer/phpmailer' => array(
